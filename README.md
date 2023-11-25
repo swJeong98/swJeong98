@@ -30,7 +30,7 @@ Charge of : C Programming, Parallel Programming, Computer curcuit
 - **Algorithm Lecture at Samsung SDS** ( Jan. 2023 )  
 Certificated and Qualification for Samsung S/W Professional Grade (B형)
 
-- **Software Maestro** ( Apr. 2023 ~ )  
+- **Software Maestro** ( Apr. 2023 ~ Nov. 2023)  
 Worked in [TEAM METEOR](https://github.com/SWM-METEOR) as Back-end Developer
 
 ## PROJECTS
